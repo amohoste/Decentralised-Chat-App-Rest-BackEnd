@@ -1,4 +1,4 @@
-# MBot-Programming-Language
+# Decentralised Chat App
 Project for the course Webdevelopment (C003779) | 2nd sem 2017 - 2018. Made during my second year of Bachelor of Science in Computer Science at Ghent University.
 
 Made a decentralised Chat App.
